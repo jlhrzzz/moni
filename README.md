@@ -34,6 +34,3 @@ npm run build
 ```
 npm run deploy:github
 npm run deploy:gitee
-```# moni
-# moni
-# moni
